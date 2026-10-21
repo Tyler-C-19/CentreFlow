@@ -2,8 +2,11 @@
 This repository contains the project for the SECR3104-01 Applications Development course.
 
 # Team members
-TANG WEI YANG
-TAN LI JIA (A24CS5023) Sign in at (21-10-2026 4:15 PM)
+1. Tyler Chok Ke Qing (A24CS5068)
+2. Chua Kai Loon (A24CS5071)
+3. Goh Kok Wei (A24CS5027)
+4. Tan Li Jia (A24CS5023)
+5. Tang Wei Yang (A24CS5037)
 
 # Contact us
 Contact us here -> +60 12345678
