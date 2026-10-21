@@ -1,5 +1,6 @@
-# CentreFlow
+# CentreFlow Project Description
 This repository contains the project for the SECR3104-01 Applications Development course.
+Theme: tuition centre
 
 # Team members
 TANG WEI YANG
